@@ -11,7 +11,6 @@ class App extends Component {
       robots: [],
       searchField: ''
     };
-    console.log('constructor');
   }
 
   componentDidMount() {
